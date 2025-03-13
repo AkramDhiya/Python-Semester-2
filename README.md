@@ -1,2 +1,3 @@
 # Python-Semester-2
-hi
+
+Ini adalah pembelajaran di perkuliahan pada semester 2
